@@ -5,7 +5,7 @@
 
 .fadein {
 	opacity: 0;
-	animation: fadein 0.8s;
+	animation: fadein 0.5s;
 	animation-fill-mode: forwards;
 }
 

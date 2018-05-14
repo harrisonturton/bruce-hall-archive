@@ -85,11 +85,11 @@ li {
 
 	.content-wrapper {
 		margin-left: 50vw;
-		transform: TranslateX(-50%);
+		transform: TranslateX(-60%);
 	}
 
 	.description {
-		max-width: 30vw;
+		max-width: 40vw;
 	}
 
 	section {
